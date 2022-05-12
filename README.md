@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kyle Hackett</h1>
 <h3 align="center">Software Engineering Intern at Nuance and Senior Computer Science Student at UMass Boston</h3>
 
-- 🔭 I’m currently working on **updating my website as well as fun side project**
+- 🔭 I’m currently working on **updating my website, and on a side project!**
 
 - 🌱 I’m currently learning **more about React!**
 
