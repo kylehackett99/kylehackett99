@@ -1,12 +1,4 @@
 <h1 align="center">Hi 👋, I'm Kyle Hackett</h1>
-<h3 align="center">Software Engineering Intern at Nuance and Senior Computer Science Student at UMass Boston</h3>
-
-- 🔭 I’m currently working on **updating my website, and on a side project!**
-
-- 🌱 I’m currently learning **more about React!**
-
-- 👨‍💻 All of my projects are available at [https://kylehackett99.github.io/index.html](https://kylehackett99.github.io/index.html)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kylejhackett/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kylejhackett/" height="30" width="40" /></a>
